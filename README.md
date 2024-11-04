@@ -5,4 +5,4 @@
 
 ATENCIÓN ESTE PROYECTO ES ANTIGUO, Y LO HICE EN UNA EDAD TEMPRANA POR LO QUE PUEDE QUE TENGA ERRORES Y FALLOS DE RESPONSIVE
 
-<img align="left" src="https://media.tenor.com/26pNa498OS0AAAAi/warning-joypixels.gif" width = 100px>
+<img align="right" src="https://media.tenor.com/26pNa498OS0AAAAi/warning-joypixels.gif" width = 100px>
